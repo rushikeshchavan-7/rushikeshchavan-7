@@ -35,7 +35,19 @@ Software Engineer at **CareEdge Analytics & Advisory**. I build enterprise **ban
 
 <p align="center"><i>AI: LangChain · LangGraph · RAG · Vector Databases</i></p>
 
-### 🚀 Projects
+### 💼 Enterprise Work @ CareEdge
+
+> Proprietary banking platforms for financial institutions across 🇮🇳 India · 🇧🇹 Bhutan · 🇱🇰 Sri Lanka. `.NET Core · Angular · Oracle SQL`
+
+| Product | What it does | Scale |
+|---|---|---|
+| **Stress Testing** | Regulatory stress-testing & scenario analysis for banks | 55 screens · 3 modules |
+| **Loan Origination (LOS)** | End-to-end digital loan origination & credit workflow | 140 screens · 5 modules |
+| **Operational Risk** | Operational risk management (RCSA, KRIs, loss events) | 250 screens · 8 modules |
+
+**Also built:** No-code **Report & Dashboard Builder** (↓95% ad-hoc report requests) · **Authorization Policy Engine** (N-level approvals, screen-level access) · **Python ETL pipelines** (1M+ records automated)
+
+### 🚀 Personal Projects
 
 | Project | Description | Links |
 |---|---|---|

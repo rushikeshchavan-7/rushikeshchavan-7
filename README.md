@@ -1,9 +1,7 @@
 <!-- Repo must be named:  rushikeshchavan-7 -->
 
-<h1 align="center">Hi, I'm Rushikesh Chavan 👋</h1>
-
 <p align="center">
-  <b>Software Engineer</b> — building enterprise &amp; AI-powered applications.
+  <img src="header.png" width="460" alt="Rushikesh Chavan — Software Engineer · AI + Enterprise Applications" />
 </p>
 
 <p align="center">

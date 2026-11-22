@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="190" viewBox="0 0 1000 190" fill="none" font-family="-apple-system,BlinkMacSystemFont,'SF Pro Display','Inter','Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif">
+<style>
+@keyframes up{from{opacity:0;transform:translateY(14px)}to{opacity:1;transform:none}}
+</style>
+<clipPath id="clip"><rect width="1000" height="190" rx="0"/></clipPath><g clip-path="url(#clip)">
+<defs><linearGradient id="grad" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="1000" y2="0" spreadMethod="reflect"><stop offset="0" stop-color="#ff6b2c"/><stop offset=".35" stop-color="#ff2d78"/><stop offset=".7" stop-color="#c13cff"/><stop offset="1" stop-color="#8b5cf6"/><animateTransform attributeName="gradientTransform" type="translate" values="0 0;1000 0;0 0" dur="10s" repeatCount="indefinite"/></linearGradient></defs><g class="up"><text x="0" y="26" font-size="18" font-weight="600" fill="#6e6e73" text-anchor="start" >Contact</text></g><g class="up" style="animation-delay:.12s"><text x="-3" y="96" font-size="64" font-weight="700" fill="#1d1d1f" text-anchor="start" letter-spacing="-2.8" >Let&#x27;s build something</text></g><g class="up" style="animation-delay:.25s"><text x="-3" y="170" font-size="64" font-weight="700" fill="url(#grad)" text-anchor="start" letter-spacing="-2.8" >remarkable.</text></g>
+</g></svg>

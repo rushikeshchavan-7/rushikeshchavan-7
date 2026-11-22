@@ -1,6 +1,6 @@
 <div align="center">
 
-<a href="https://rushikeshh.in"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/hero.svg" /><img src="assets/light/hero.svg" width="100%" alt="Hi, I'm Rushikesh Chavan. Jack of all trades. Mastering them all." /></picture></a>
+<a href="https://rushikeshh.in"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/neofetch/dark.svg" /><img src="assets/neofetch/light.svg" width="100%" alt="rushikesh@chavan — Software Engineer at CareEdge, Mumbai. AI, backend, frontend, data and cloud." /></picture></a>
 
 <a href="https://drive.google.com/file/d/1o3TzPZh0TLtcQsLNcLPoqlvmUMhlDAaG/view?usp=sharing"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/btn-resume.svg" /><img src="assets/light/btn-resume.svg" height="44" alt="View résumé" /></picture></a>&nbsp;&nbsp;<a href="https://rushikeshh.in"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/btn-site.svg" /><img src="assets/light/btn-site.svg" height="44" alt="rushikeshh.in" /></picture></a>&nbsp;<a href="https://www.linkedin.com/in/rushikesh-chavan-275282211/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/btn-linkedin.svg" /><img src="assets/light/btn-linkedin.svg" height="44" alt="LinkedIn" /></picture></a>
 
